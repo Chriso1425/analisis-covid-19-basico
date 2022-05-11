@@ -1,0 +1,13 @@
+---
+title: "Analisis de datos de covid 19 en Costa Rica"
+author: "Christopher Ortiz"
+date: '2022-05-11'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Presentación
+Este documento presenta graficos generados a partir de los datos de COVID19 en Costa Rica compartidos por el ministerio de salud en [https://geovision.uned.ac.cr/oges/](https://geovision.uned.ac.cr/oges/).
