@@ -80,7 +80,6 @@ axis(
 
 ##### Fallecidos
 
-
 ```{r casos-fallecidos-acumulados}
 plot(
   covid$FECHA,
